@@ -1,0 +1,28 @@
+[33mcommit 1ea2ab76691d96776c863d20aae0c10e3481e1b3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 287a865 15158be
+Author: Mansoor Hussain <Mansoorhussaingilgite@gmail.com>
+Date:   Sat Oct 12 05:41:49 2024 +0500
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 287a865de69ea761b4105823a1f37b8f3f9eb7d7[m
+Author: Mansoor Hussain <Mansoorhussaingilgite@gmail.com>
+Date:   Sat Oct 12 05:41:04 2024 +0500
+
+    Finished the BMI Calculator
+
+[33mcommit 15158bef092d83d49396e9e65b4a4b42a89aeb3e[m
+Author: Mansoor Hussain <70083907+Mansoor65@users.noreply.github.com>
+Date:   Sat Oct 12 04:57:45 2024 +0500
+
+    Create README.md
+    
+    description
+    
+    Signed-off-by: Mansoor Hussain <70083907+Mansoor65@users.noreply.github.com>
+
+[33mcommit cec4024390c882f10e0522b2f05547f2d908001f[m
+Author: Mansoor Hussain <Mansoorhussaingilgite@gmail.com>
+Date:   Sat Oct 12 04:47:02 2024 +0500
+
+    Finished the BMI Calculator
